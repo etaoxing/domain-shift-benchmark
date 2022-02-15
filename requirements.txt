@@ -1,0 +1,11 @@
+dm_control
+gym
+kornia
+lmdb
+matplotlib
+opencv-python
+pandas
+psutil
+tabulate
+tensorboard
+zarr
